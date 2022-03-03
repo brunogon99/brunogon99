@@ -1,9 +1,8 @@
 ### Aobaaa! Sou *Bruno Gonçalves* 👋
 
 - 🌱 Estudando HTML, CSS, JavaScript e SQL com a Alura e Devaria
-- 🌱 Plano para estudar em seguida: Node.Js - Devaria e Spring boot na decode week
 - 💬 Me contate pelo e-mail: b.goncalves484@gmail.com
-- 🐱‍💻 Estou editando aos poucos meu perfil, seguindo o guia da Rafaella Ballerini no Youtube.
+
 
 <div align="center">
   <a href="https://github.com/brunogon99">
