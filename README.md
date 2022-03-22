@@ -1,6 +1,6 @@
 ### Aobaaa! Sou *Bruno Gonçalves* 👋
 
-- 🌱 Estudando HTML, CSS, JavaScript e SQL com a Alura e Devaria
+- 🌱 Estudando HTML, CSS, Javascript e Typescript.
 - 💬 Me contate pelo e-mail: b.goncalves484@gmail.com
 
 
