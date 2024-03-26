@@ -1,6 +1,7 @@
-### Aobaaa! Sou *Bruno Gonçalves* 👋
+### Olá! Sou *Bruno Gonçalves* 👋
 
-- 🌱 Estudando HTML, CSS, Javascript e Typescript.
+- Desenvolvedor Web, com foco em Front-end.
+- Trabalhando atualmente com: Typescript (Angular 5 e Angular 12), Java (Quarkus), SQL (Oracle Sql).
 - 💬 Me contate pelo e-mail: b.goncalves484@gmail.com
 
 
